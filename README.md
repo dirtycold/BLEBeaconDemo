@@ -19,5 +19,5 @@ See Also
 ---
 
 1. [piBeacon](https://github.com/jacklund/piBeacon) project
-2. [linux-beacon](https://github.com/dburr/linux-beacon) project
+2. [linux-ibeacon](https://github.com/dburr/linux-ibeacon) project
 3. Several questions regarding Raspberry Pi, BlueZ and Beacon application ... :)
