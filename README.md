@@ -13,7 +13,7 @@ Usage
 ---
 
 * Run 'command' to activate beacon
-* Use an app on mobile device to detect beacon, my preferences are `Locate` or `Beacon Toolkit` on iOS and `Locate` or `Beacon Scanner` on Android.
+* Use an app on mobile device to detect beacon, my preferences are [Locate](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8) on iOS and [Locate](https://play.google.com/store/apps/details?id=com.radiusnetworks.locate) or [Beacon Scanner](https://play.google.com/store/apps/details?id=de.flurp.beaconscanner.app) on Android.
 
 See Also
 ---
